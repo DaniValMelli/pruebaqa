@@ -1,2 +1,2 @@
 # pruebaqa
-Prueba tecnica QA
+Prueba tecnica QA Daniela Valencia
